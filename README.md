@@ -1,11 +1,11 @@
 # Hotel-Manager
-First Goal
+# First Goal
 
 Quản lí phòng và khách sạn
 
-Business Objectives
+# Business Objectives
 
-Thêm/sửa/xóa thông tin phòng, xem các báo cáo doanh thu.
+  <li>Thêm/sửa/xóa thông tin phòng, xem các báo cáo doanh thu. </li>
 
 Xem báo cáo tỉ lệ phòng trống theo thời gian/theo phòng/theo loại phòng.
 
