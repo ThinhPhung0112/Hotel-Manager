@@ -5,19 +5,19 @@ Quản lí phòng và khách sạn
 
 # Business Objectives
 
-  <li>Thêm/sửa/xóa thông tin phòng, xem các báo cáo doanh thu. </li>
+  <li> Thêm/sửa/xóa thông tin phòng, xem các báo cáo doanh thu. </li>
 
-Xem báo cáo tỉ lệ phòng trống theo thời gian/theo phòng/theo loại phòng.
+<li>Xem báo cáo tỉ lệ phòng trống theo thời gian/theo phòng/theo loại phòng.</li>
 
-Xem các báo cáo doanh thu theo thời gian/theo phòng/theo loại phòng.
+<li>Xem các báo cáo doanh thu theo thời gian/theo phòng/theo loại phòng.</li>
 
-Xem báo cáo khách hàng đặt nhiều theo thời gian/theo nguồn gốc khách hàng.
+<li>Xem báo cáo khách hàng đặt nhiều theo thời gian/theo nguồn gốc khách hàng.</li>
 
-Second Goal
+# Second Goal
 
 Đặt phòng
 
-Business Objectives
+# Business Objectives
 
 Tìm phòng trống theo yêu cầu trực tiếp/qua điện thoại của khách.
 
