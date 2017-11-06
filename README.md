@@ -5,7 +5,7 @@ Quản lí phòng và khách sạn
 
 # Business Objectives
  <ul type="circle">
-  <li> Thêm/sửa/xóa thông tin phòng, xem các báo cáo doanh thu. </li>
+ <li> Thêm/sửa/xóa thông tin phòng, xem các báo cáo doanh thu. </li>
 
 <li>Xem báo cáo tỉ lệ phòng trống theo thời gian/theo phòng/theo loại phòng.</li>
 
