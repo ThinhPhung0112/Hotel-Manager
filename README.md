@@ -1,5 +1,5 @@
 # Hotel-Manager
-# First Goal
+# Goal
 
 Quản lí phòng và khách sạn
 
@@ -13,9 +13,6 @@ Quản lí phòng và khách sạn
 
 <li>Xem báo cáo khách hàng đặt nhiều theo thời gian/theo nguồn gốc khách hàng.</li>
 
-# Second Goal
-
-Đặt phòng
 
 # Business Objectives
 
