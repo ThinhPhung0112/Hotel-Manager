@@ -5,13 +5,13 @@ Phần mềm Quản lí phòng và khách sạn. Phần mềm dạng ứng dụn
 
 # Business Objectives
  <ul type="circle">
-<li> Thêm/sửa/xóa thông tin phòng, xem các báo cáo doanh thu. </li>
+<li> Thêm/sửa/xóa thông tin phòng, xem thông tin khách hàng. </li>
 
-<li>Xem báo cáo tỉ lệ phòng trống theo thời gian/theo phòng/theo loại phòng.</li>
+<li>Đặt phòng và hủy phòng theo yêu cầu của khách hàng. </li>
 
-<li>Xem các báo cáo doanh thu theo thời gian/theo phòng/theo loại phòng.</li>
+<li>Check in/Check out và thanh toán</li>
 
-<li>Xem báo cáo khách hàng đặt nhiều theo thời gian/theo nguồn gốc khách hàng.</li>
+<li>Xem các loại báo cáo theo thời gian,theo khách hàng, theo thông tin phòng.</li>
 
 
 # Business Objectives
